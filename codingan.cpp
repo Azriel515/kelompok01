@@ -27,3 +27,25 @@ void Hitung_Ambang_Nilai(Siswa siswa, float NilaiAkhir) {
         cout << siswa.nama << " Tidak Lulus dengan Nilai " << NilaiAkhir << endl;
     }
 }
+
+int main() {
+    Siswa siswa;
+    cout << "Masukkan Nama Siswa: ";
+    getline(cin, siswa.nama); 
+    cout << "Masukkan Nilai Tugas: ";
+    cin >> siswa.NilaiTugas;
+    cout << "Masukkan Nilai Kuis: ";
+    cin >> siswa.NilaiKuis;
+    cout << "Masukkan Nilai Ujian: ";
+    cin >> siswa.NilaiUjian;
+
+    cin.ignore();
+
+    float NilaiAkhir = Hitung_Nilai_Akhir(siswa);
+    cout << "Nilai Akhir " << siswa.nama << " Adalah: " << NilaiAkhir << endl;
+
+    Hitung_RataRata_Bobot(siswa);
+    Hitung_Ambang_Nilai(siswa, NilaiAkhir);
+
+    return 0;
+}
