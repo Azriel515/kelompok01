@@ -1,0 +1,47 @@
+[33mcommit a1a433084675ed7b24d1cd57b7a0b23e4b29a458[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 17:45:30 2024 +0800
+
+    Menambahkan komentar dan pengujian program
+
+[33mcommit 6e69b58ad44de1f24fff3180d7e2a1d013c777a6[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 17:33:33 2024 +0800
+
+    Menerapkan perulangan untuk mengatur banyak siswa
+
+[33mcommit 8b4c63aac8e0971dc6d2617c511992e593bd732d[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 17:27:33 2024 +0800
+
+    Menambahkan fungsi input dan output untuk interaksi pengguna
+
+[33mcommit 7e2ab67c69194defa256a4d18f8f7ea9fd753130[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 17:08:36 2024 +0800
+
+    Menerapkan fungsi pengecekan ambang nilai
+
+[33mcommit 41420790ef9fc0995dfc382c224aec11180586c1[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 17:06:27 2024 +0800
+
+    Menerapkan fungsi perhitungan rata-rata bobot
+
+[33mcommit 847fb892b4b91c3902e57f78da127c978e34fc7a[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 17:03:35 2024 +0800
+
+    Menerapkan fungsi perhitungan nilai akhir
+
+[33mcommit be7616f08e03da99b370091d54ccc17d27e03969[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 16:58:24 2024 +0800
+
+    Menambahkan typedata struct untuk merepresentasikan data siswa
+
+[33mcommit a72f35398ba479ac160690076ee980bc33a1b810[m
+Author: Azriel515 <azriel.ilham1234@gmail.com>
+Date:   Fri Jul 12 16:47:14 2024 +0800
+
+    Membuat repository project dan Menambahkan file awal
